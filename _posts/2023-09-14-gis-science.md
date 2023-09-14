@@ -31,4 +31,4 @@ Here is an image: ![GitHub Logo](/assets/images/GitHub-Mark.png)
 | more examples | example| 
 
 
-Link to [another post] (/Blog/post-standard.md)
+Link to [another post](/Blog/post-standard.md)
