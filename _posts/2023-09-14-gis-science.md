@@ -15,11 +15,13 @@ In my personal  experience in GIS classes, GIS can be considered a science. This
 
 However, in the world of corporate GIS, at companies such as ESRI, GIS is often framed as a singular technology that is universally applicable for problem solving. In this regard, GIS is both framed and used as a one tool in a tool-box for better understanding spatial data. 
 
+I have been drawn to GIS over disciplines such as mathematics where there often appears to be one route to achieving a ‘correct’ solution. Instead, in my experience doing GIS, there are frequently a variety of methods to conduct an analysis and I appreciate that feeling of freedom when problem solving. I also appreciate the wide diversity of real-world applications of GIS, that it is not a singular technology that is progressing along a linear path, but is being adapted to a diversity of applications to meet the demands of challenges facing the world. I feel uneasy about the colonial roots of GIS and the ethical impacts of when GIS is used in the surveillance of people and for military purposes. I thought it was interesting how [St. Martin and Wing (2007)](https://www.academia.edu/11144646/_The_discourse_and_discipline_of_GIS_Cartographica_42_no_3_Fall_2007_235_248) highlighted the ways in which corporations are marketing an array of GIS products as a singular entity, and I am curious if these marketing strategies have persisted to this day as GIS softwares have further developed capabilities. 
 
 
 
 
-Wright, D. J., M. F. Goodchild, and J. D. Proctor. 1997. GIS: Tool or science? Demystifying the persistent ambiguity of GIS as “tool” versus “science.” Annals of the Association of American Geographers 87 (2):346–362. DOI:10.1111/0004-5608.872057
+
+
 
 
 
@@ -29,6 +31,8 @@ Here is an image: ![GitHub Logo](/assets/images/GitHub-Mark.png)
 | :-------------:| -----------|  
 |centered| Not centered| 
 | more examples | example| 
+
+Wright, D. J., M. F. Goodchild, and J. D. Proctor. 1997. GIS: Tool or science? Demystifying the persistent ambiguity of GIS as “tool” versus “science.” Annals of the Association of American Geographers 87 (2):346–362. DOI:10.1111/0004-5608.872057
 
 
 Link to [another post](/blog/post-standard/)
