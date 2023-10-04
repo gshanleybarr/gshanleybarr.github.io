@@ -1,5 +1,5 @@
 ---
-title: "Post: Reproducibility in Open Source GIS"
+title: "Reproducibility in Open Source GIS"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
