@@ -16,7 +16,7 @@
 title: Grayson Shanley Barr's Geography Portfolio
 email: gshanleybarr@middlebury.edu
 description: >- # this means to ignore newlines until "baseurl:"
- My portfolio of geographic information science and cartography. 
+ My portfolio of geographic information science and cartography.
 github_username: gshanleybarr
 minimal_mistakes_skin: dirt
 
@@ -55,7 +55,7 @@ plugins:
 
 author:
   name   : "Grayson Shanley Barr"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio_pic.jpeg"
   bio    : "My portfolio of geographic information science and cartography."
   links:
     - label: "Website"
