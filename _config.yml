@@ -55,7 +55,7 @@ plugins:
 
 author:
   name   : "Grayson Shanley Barr"
-  avatar : "/assets/images/bio_pic.jpeg"
+  avatar : ""
   bio    : "My portfolio of geographic information science and cartography."
   links:
     - label: "Website"
