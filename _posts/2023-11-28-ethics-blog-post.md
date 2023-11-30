@@ -1,25 +1,25 @@
 ---
-title: "Geographic Threats to Validity"
+title: "Pedagogical Apporaches to Open Science"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
 tags:
-  - Validity
-  - Ethics
+  - GIScience
+  - Pedgagogy
+  - Undergraduate Teaching Methods
 ---
-In one final discussion blog post, let’s revisit the implications of geographic threats to validity in the context of your selected replication or reproduction project. Which threats to validity matter for your study, and do you have any suggestions about how to deal with them? This discussion can be integrated into your project report!
 
-#### Why do geographers contemplate geographic threats to validity - and why everyone else should too
+#### A Systematic Literature Review of Lessons Learned from Undergaduate Pedagogical Approaches to Teaching Open Scinece Across Disciplines
 
-# How do geographers teach risk and uncertainty in geospatial research
+For my final project for the class Open GIScience I conducted a systematic literature review concerning pedagogical approaches to teaching GIScience across disciplines and how these findings can inform how professors teach undergraduate students Open Science in the field of geography.
 
-Understanding geographic threats to research validity are an integral aspect of conducting effective and accurate geospatial research. At the core, the main geographic threats to validity are:
+The core aims of the literature review are three-fold:
+1. Identify what skills and competencies are needed to teach open science.
+2. Identify lessons learned, proficiencies gained, benefits, and positive outcomes as a result of incorporating open science into curriculumn.  
+3. Identify metrics to use to measure positive outcomes.
 
-- Boundary/Edge Effects
-- Modifiable Aerial Unit Problem
-- Scale Dependency
-- Spatial Dependency/Autocorrelation
-- Spatial Nonstationarity
-- Spatial Heteogeneity
+ 
 
-Furthermore, when teaching geospatial scicence, geographers have an ethical obligation to teach about these core threats to ensure that future generations of geographers 
+
+
+A link to a narrative decription of my literature review can be found [here](https://docs.google.com/document/d/17G7YBXCRQWizheULHIgyaU4OoAVzUjCVVPgCcvXXwKQ/edit?usp=sharing) and a synthesis of my finings in a tabular format can be found [here](https://docs.google.com/spreadsheets/d/1EMGBYk11V5w4jIjsNNc8ChbV6BcfDrkItVK-2zCW55A/edit?usp=sharing).
