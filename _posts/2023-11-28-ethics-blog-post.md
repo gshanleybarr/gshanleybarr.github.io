@@ -7,11 +7,10 @@ tags:
   - Validity
   - Ethics
 ---
+## Why do geographers contemplate geographic threats to validity - and why everyone else should too
 In one final discussion blog post, let’s revisit the implications of geographic threats to validity in the context of your selected replication or reproduction project. Which threats to validity matter for your study, and do you have any suggestions about how to deal with them? This discussion can be integrated into your project report!
 
-#### Why do geographers contemplate geographic threats to validity - and why everyone else should too
-
-# How do geographers teach risk and uncertainty in geospatial research
+#### How do geographers teach risk and uncertainty in geospatial research
 
 Understanding geographic threats to research validity are an integral aspect of conducting effective and accurate geospatial research. At the core, the main geographic threats to validity are:
 
