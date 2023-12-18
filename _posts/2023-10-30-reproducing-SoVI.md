@@ -1,5 +1,5 @@
 ---
-title: "A Reproduction and Reanalysis of a Social Vulnerability Index"
+title: "Reproduction Analysis: A Reanalysis of a Social Vulnerability Index"
 excerpt_separator: "<!--more-->"
 categories:
   - Analysis

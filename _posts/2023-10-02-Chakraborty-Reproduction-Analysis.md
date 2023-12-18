@@ -1,5 +1,5 @@
 ---
-title: "Reflections on Conducting A Reproduction Analysis"
+title: "Reproduction Analysis: Reflections on Conducting A Reproduction Analysis"
 excerpt_separator: "<!--more-->"
 categories:
   - Analysis
