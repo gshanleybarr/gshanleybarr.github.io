@@ -5,8 +5,10 @@ categories:
   - Blog
 tags:
   - GIScience
-  - Pedgagogy
+  - Pedagogical Methods
   - Undergraduate Teaching Methods
+  - Transparency
+  - Reproducibility
 ---
 
 #### A Systematic Literature Review of Lessons Learned from Undergaduate Pedagogical Approaches to Teaching Open Scinece Across Disciplines
