@@ -3,6 +3,7 @@ title: "Reflections on Conducting A Reproduction Analysis: Additive vs. Multipli
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
+  - analysis
 tags:
   - Reproduction
   - Reanalysis
