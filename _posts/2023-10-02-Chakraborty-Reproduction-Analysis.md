@@ -2,7 +2,6 @@
 title: "Reflections on Conducting A Reproduction Analysis"
 excerpt_separator: "<!--more-->"
 categories:
-  - Blog
   - Analysis
 tags:
   - Reproduction

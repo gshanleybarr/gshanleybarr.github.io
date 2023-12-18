@@ -2,8 +2,7 @@
 title: "Reflections on Conducting A Reproduction Analysis: Additive vs. Multiplicative Vulnerability Scores"
 excerpt_separator: "<!--more-->"
 categories:
-  - Blog
-  - analysis
+  - Analysis
 tags:
   - Reproduction
   - Reanalysis
