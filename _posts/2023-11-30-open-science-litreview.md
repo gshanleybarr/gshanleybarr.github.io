@@ -19,7 +19,7 @@ The core aims of the literature review are three-fold:
 3. Identify metrics to use to measure positive outcomes.
 
 
-
-
-
 A link to a narrative decription of my literature review can be found [here](https://docs.google.com/document/d/17G7YBXCRQWizheULHIgyaU4OoAVzUjCVVPgCcvXXwKQ/edit?usp=sharing) and a synthesis of my finings in a tabular format can be found [here](https://docs.google.com/spreadsheets/d/1EMGBYk11V5w4jIjsNNc8ChbV6BcfDrkItVK-2zCW55A/edit?usp=sharing).
+
+
+The process of conducting this literature review assisted in my own understanding of the broader goals of teaching Open GIScience at Middlebury and  assisted in synthesizing upon my own learning in Open GIScience this past semester. It was interesting to observe that many other disciplines are using similar pedagogical methods to teach open science as we did in this course. For example, conducting pre-registrations of research and replicating previously published work. In the future, it appears that the Open Science curriculum could be strengthened at Middlebury College by incorporating lectures about OS principals into First-Year Seminar courses and science curriculum more broadly, having a dedicated OS librarian to assist with OS curriculum development, and requiring that research projects such as senior theses be pre-registered and follow the OSF template.  
