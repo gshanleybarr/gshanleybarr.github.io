@@ -20,6 +20,6 @@ I have been drawn to GIS over disciplines such as mathematics where there often 
 
 
 
+Martin, K. S., & Wing, J. (2007). The discourse and discipline of GIS. Cartographica: The International Journal for Geographic Information and Geovisualization, 42(3), 235-248.
 
-
-Wright, D. J., M. F. Goodchild, and J. D. Proctor. 1997. GIS: Tool or science? Demystifying the persistent ambiguity of GIS as “tool” versus “science.” Annals of the Association of American Geographers 87 (2):346–362. DOI:10.1111/0004-5608.872057
+Wright, D. J., M. F. Goodchild, and J. D. Proctor. (1997). GIS: Tool or science? Demystifying the persistent ambiguity of GIS as “tool” versus “science.” Annals of the Association of American Geographers 87 (2):346–362. DOI:10.1111/0004-5608.872057

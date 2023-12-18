@@ -55,7 +55,3 @@ In the conclusion of their paper, [Fusco (2017)](https://doi.org/10.1177/0308518
 Fusco, G., Caglioni, M., Emsellem, K., Merad, M., Moreno, D., & Voiron-Canicio, C. (2017). Questions of uncertainty in geography. Environment and Planning A: Economy and Space, 49(10), 2261-2280. https://doi.org/10.1177/0308518X17718838
 
 Underwood, A., Sichel, G., & Marshall, E. (2023) Teaching Reproducible Methods in Economics at Liberal Arts Colleges: A Survey, Journal of Statistics and Data Science Education, https://doi.org/10.1080/26939169.2023.2234425
-
-
-CITATIONS:
-https://journals.sagepub.com/doi/10.1177/0308518X17718838
