@@ -11,7 +11,8 @@ tags:
   - Transparency
   - Reproducibility
 ---
-#### Understanding risk and uncertainty in geospatial research
+
+### Understanding risk and uncertainty in geospatial research
 
 In the field of geography, understanding sources of uncertainty, particularly uncertainty arising from geographic threats to validity, is critical to conducting valid research. At the core, the main geographic threats to validity are:
 
